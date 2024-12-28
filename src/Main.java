@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) throws ParseException {
+        System.out.println("*** HOTEL RESERVATION ***");
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 
